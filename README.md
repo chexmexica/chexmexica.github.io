@@ -15,8 +15,8 @@ Email: jgillette@my.waketech.edu
  While I was at NC State, I took a handful of Computer Science electives, and became interested in Data Science and coding. I'd like to learn Python and R because I think they work well with scraping and interpreting data, and I think they'd be useful in Biostatistics.
 
 ### Websites I recommend
- *[PubChem](https://pubchem.ncbi.nlm.nih.gov/) - PubChem is run by the National Institute of Health and is a really good site for researching and referencing chemicals used in experiments.  
- *[ScienceDirect](https://www.sciencedirect.com/) - ScienceDirect an extensive database for scientific studies. It is useful for accessing studies for research and experimental design.
+ * [PubChem](https://pubchem.ncbi.nlm.nih.gov/) - PubChem is run by the National Institute of Health and is a really good site for researching and referencing chemicals used in experiments.  
+ * [ScienceDirect](https://www.sciencedirect.com/) - ScienceDirect an extensive database for scientific studies. It is useful for accessing studies for research and experimental design.
 
 
  
